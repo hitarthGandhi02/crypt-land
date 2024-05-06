@@ -1,0 +1,23 @@
+.headerContainer {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    background-color: #c7f2ab;
+    padding: 15px;
+}
+.headerText {
+    justify-self: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 5px 0;
+    line-height: 16.94px;
+    text-align: right;
+}
+.new-btn {
+    color: white;
+    background-color: #1668e8;
+    border: 1px solid #1668e8;
+    border-radius: 50px;
+    padding: 5px 20px;
+}
