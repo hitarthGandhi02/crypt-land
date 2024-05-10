@@ -1,0 +1,63 @@
+.faqPageContainer {
+    margin: 120px 120px;
+}
+.faqPageTitle {
+font-family: Inter;
+font-size: 50px;
+font-weight: 700;
+line-height: 65px;
+letter-spacing: -0.02em;
+text-align: center;
+}
+.faqPageSubTitle {
+    font-family: Inter;
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+.faqAccordianContainer {
+    margin-top: 80px;
+}
+.accordianUpperContainer {
+    cursor: pointer;
+    border-top: 1px grey solid;
+    display: flex;
+    text-align: center;
+    padding-top: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.accordianState {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px#F7F7F7 solid;
+    background-color: #F7F7F7;
+    color: #786F77;
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+}
+.accordianTitle {
+    font-family: Inter;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 46px;
+    text-align: left;
+}
+.accordianSubText {
+    padding: 20px 380px 20px 0;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+
+}
+.active {
+    background-color: blue;
+}

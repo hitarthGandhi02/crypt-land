@@ -8,7 +8,7 @@
 .headerText {
     justify-self: center;
     font-family: Inter;
-    font-size: 14px;
+    font-size: 14   px;
     font-weight: 400;
     padding: 5px 0;
     line-height: 16.94px;
@@ -20,4 +20,5 @@
     border: 1px solid #1668e8;
     border-radius: 50px;
     padding: 5px 20px;
+    font-size: 10px;
 }

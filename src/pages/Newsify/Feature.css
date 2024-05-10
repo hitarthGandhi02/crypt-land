@@ -1,0 +1,65 @@
+.featureTitle {
+    margin-top: 100px;
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    text-align: center;
+}
+.featureSubTitle {
+    font-family: Inter;
+    font-size: 23px;
+    padding: 0 150px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+
+}
+.featureImage {
+    width: inherit;
+    display: flex;
+    justify-content: center;
+}
+.feature-img {
+    width: 85%;
+}
+.featureList {
+    margin-top: 120px;
+    padding: 0 100px;
+    display: flex;
+    gap: 20px;
+}
+.featureCardContainer {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 15px;
+}
+.arrowImage {
+    width: inherit;
+    display: flex;
+    justify-content: center;
+}
+.arrow-img {
+    position: relative;
+    top: -80%;
+}
+.featureCardTitle {
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+}
+.featureCardSubTitle {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    margin-top: 30px;
+    
+}

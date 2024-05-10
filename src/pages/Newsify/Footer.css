@@ -1,0 +1,119 @@
+
+
+.newsifyFooterContainer {
+    display: flex;
+    font-size: 14px;
+    background: #1668E8;
+    margin-top: 150px;
+    color: white;
+    padding: 100px;
+    flex-direction: column;
+    justify-content: space-between;
+    max-height: 350px;
+}
+.newsifyFooterUpperContainer {
+    display: flex;
+    gap: 100px;
+}
+.footerNewsletterContainer {
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.footerNewsletterTitle {
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 53.25px;
+}
+.footerNewsletterSubTitle {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.025em;
+    text-align: left;
+
+}
+.try-for-free-btn {
+    background-color: white;
+    border: 1px white solid;
+    border-radius: 25px;
+    font-family: Inter;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21.78px;
+    width: 160px;
+    height: 50px;
+}
+.footerCompanyContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.footerCompanyTitle {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-bottom: 25px;
+}
+.footerSupportContainer {
+    text-wrap: nowrap;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.footerSupportTitle {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-bottom: 25px;
+}
+.footerResourcesContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.footerResourcesTitle {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-bottom: 25px;
+}
+.footerAddressTitle {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-bottom: 25px;
+}
+.footerAddressContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.footerAddressInquiry {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+}
+.footerAddressLogoContainer {
+    display: flex;
+    gap: 20px;
+}
+.newsifyFooterLowerContainer {
+    margin-top: 80px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    border-top: 1px solid white;
+    padding: 20px;
+}

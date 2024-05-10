@@ -1,0 +1,77 @@
+.reviewPageContainer {
+    margin: 150px 100px;
+    position: relative;
+
+}
+.reviewTopContainer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.reviewTitle {
+    font-family: Inter;
+    font-size: 50px;
+    padding: 0 450px 0 0;
+    font-weight: 700;
+    line-height: 65px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+}
+.reviewSubTitle {
+    font-family: Inter;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    width: 420px;
+    margin-bottom: 40px;
+    line-height: 20px;
+    letter-spacing: 0.025em;
+    text-align: left;
+
+}
+.reviewCardContainer {
+    background-color: #1E1F20;
+    border: 1px #1E1F20 solid;
+    border-radius: 25px;
+    color: white;
+    padding-bottom: 20px;
+    background-image: url(file:///D:/internship/crypt-land/crypt-land/src/pages/Newsify/images/lines.png);
+    background-size: 600px;
+    background-repeat: no-repeat;
+    background-position:450px;
+}
+.reviewPersonContainer {
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    
+}
+.reviewCardTitle {
+    font-family: Inter;
+    font-size: 40px;
+    padding: 50px 150px 0 50px;
+    font-weight: 400;
+    line-height: 42px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.review-person-img {
+    width: 60px;
+}
+.doubleQuoteImage {
+    width: inherit;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+    margin-top: -120px;
+}
+.reviewArrow {
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+}
+.double-quote-img {
+    width: 200px;
+}

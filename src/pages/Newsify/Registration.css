@@ -1,3 +1,93 @@
+
 .registerRegisterBtn > .register-btn{
     margin: 0;
 } 
+.registerSectionContainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+}
+.registerLeftContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.registerIntroText {
+    font-family: Aileron;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+.registerTitle {
+    font-family: Inter;
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.registerSubTitle {
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.emailInput {
+    display: flex;
+    gap: 10px;
+}
+.registerEmail {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 15px;
+    align-items: center;
+    border: 1px grey solid;
+    border-radius: 25px;
+    width: 220px;
+    height: 40px;
+    font-size: 14px;
+}
+.email-inp {
+    border: none;
+    outline: none;
+    
+}
+input {
+}
+.userStatImage > img {
+    width: 380px;
+}
+.newsifyBrandContainer {
+    background-color:  #1668E8;
+}
+.newsifyBrandImagesConatiner {
+    display: flex;
+    padding: 30px 0;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.stripe > img {
+    height: 30px;
+}
+.google > img {
+    height: 30px;
+}
+.samsung > img {
+    height: 20px;
+}
+.visa > img {
+    height: 20px;
+}
+.spotify > img {
+    height: 40px;
+}
+.linkdin > img {
+    height: 30px;
+}
+.zoom > img {
+    height: 35px;
+}
